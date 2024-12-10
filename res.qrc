@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/login-out.png</file>
+        <file>img/back_light.png</file>
+        <file>img/Login.png</file>
+        <file>img/add.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/search.png</file>
+    </qresource>
+</RCC>
